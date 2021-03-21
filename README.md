@@ -1,4 +1,4 @@
-# Hi there!  <img src="https://raw.githubusercontent.com/FabioNappi/FabioNappi/master/wave.gif" width="40px">
+# <img src="https://raw.githubusercontent.com/FabioNappi/FabioNappi/master/wave.gif" width="40px"> Hi there!
 ## :boy: About me
 I am Fabio Nappi, a Computer Science Engineering student @ Politecnico di Milano. I'm a cybersecurity lover, but still very interested in anything a :computer: can do.
 
